@@ -442,6 +442,7 @@ int[][] = new int [3][6];
 
 #### Traversing an array 
 
+
 - nested iteration statements are used to traverse and access 2d elements
 
 ```java
